@@ -8,7 +8,7 @@
         private $dbengine   = 'mysql';
         private $dbhost     = 'localhost';
         private $dbuser     = 'user';
-        private $dbpassword = 'user';
+        private $dbpassword = 'password';
         private $dbname     = 'clickevolue';
 
         // Set the database handler to null
