@@ -1,5 +1,5 @@
 
-# Simple Products Managment System
+# Simple Products Management System
 
 ## How is the system going to work?
 
